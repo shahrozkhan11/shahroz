@@ -2,4 +2,6 @@ def add(a, b):
 return a + b
 def subtract(a, b):
 return a - b
-print("Calculator ready.")
+def multiply(a, b):
+return a * b
+print("Calculator ready. Supports: add, subtract, multiply.")
